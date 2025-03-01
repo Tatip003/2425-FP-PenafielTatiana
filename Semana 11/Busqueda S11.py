@@ -1,7 +1,7 @@
 # Búsqueda en Arreglo Multidimensional
 matriz = [
     [30, 10, 15]
-    [25, 35, 5]
+  o  [25, 35, 5]
     [40, 20, 45]
 ]
 # Busqueda de valor especifico
