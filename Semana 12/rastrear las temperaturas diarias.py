@@ -129,6 +129,3 @@ for ciudad in temperaturas:
         print(f" semana {semana_idx + 1}: {promedio:.2f} grados ")
 
 
-
-
-
